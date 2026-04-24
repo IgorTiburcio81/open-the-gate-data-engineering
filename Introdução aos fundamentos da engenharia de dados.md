@@ -46,7 +46,7 @@ O **Python** é uma linguagem de alto nível extremamente versátil, utilizada e
     
 - **Big Data:** Integrações poderosas como o **PySpark**.
 
-**Onde aprender de graça???*
+**Onde aprender de graça???**
 
 - https://www.youtube.com/playlist?list=PLvlkVRRKOYFSpRkqnR0p2A-eaVlpLnN3D Curso de Python do **Téo Calvo**
 - https://penseallen.github.io/PensePython2e/ Livro - Pense em Python - **Allen B. Downey**
