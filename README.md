@@ -37,13 +37,16 @@ Módulo 1 — Fundamentos de Dados
 Módulo 2 — Pipelines, Processamento & Ferramentas
          │
          ▼
-Módulo 3 — Modelagem de Dados
+Módulo 3 — Processamento batch & Processamento streaming
          │
          ▼
-Módulo 4 — Projetos Locais  (Docker · DuckDB · dbt · Spark · Kafka)
+Módulo 4 — Modelagem de Dados
          │
          ▼
-Módulo 5 — Projetos em Cloud  (GCP Free Tier · Databricks Free)
+Módulo 5 — Projetos Locais  (Docker · DuckDB · dbt · Spark · Kafka)
+         │
+         ▼
+Módulo 6 — Projetos em Cloud  (GCP Free Tier · Databricks Free)
 ```
 
 ---
@@ -81,12 +84,19 @@ O coração da Engenharia de Dados: como mover, transformar e orquestrar dados c
 |Ingestão|Fontes, conectores e estratégias de carga|Python, APIs, bancos relacionais|
 |Transformação|ETL vs ELT, trade-offs e boas práticas|dbt|
 |Orquestração|Agendamento e dependências entre tarefas|Apache Airflow|
+
+---
+### Módulo 3 - Processamento batch & Processamento streaming
+
+> Status: 🔜 **Em breve**
+
+|Tema|Conceito|Ferramenta|
+|---|---|---|
 |Processamento batch|Grandes volumes em janelas de tempo|Apache Spark|
 |Processamento streaming|Dados em tempo real e eventos contínuos|Apache Kafka|
 
 ---
-
-### Módulo 3 — Modelagem de Dados
+### Módulo 4 — Modelagem de Dados
 
 > Status: 🔜 **Em breve**
 
@@ -99,7 +109,7 @@ Dados bem modelados são a diferença entre um pipeline frágil e uma plataforma
 - Boas práticas de modelagem para consumo analítico
 
 ---
-### Módulo 4 — Projetos Locais
+### Módulo 5 — Projetos Locais
 
 > Status: 🔜 **Em breve**
 
@@ -115,7 +125,7 @@ Teoria sem prática não coloca ninguém no mercado. Todos os projetos deste mó
 
 ---
 
-### Módulo 5 — Projetos em Cloud
+### Módulo 6 — Projetos em Cloud
 
 > Status: 🔜 **Em breve**
 
