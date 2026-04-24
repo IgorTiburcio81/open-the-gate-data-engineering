@@ -11,7 +11,7 @@ Muitas pessoas acreditam que entrar na área de Engenharia de Dados exige invest
 
 Se você está começando do zero ou migrando de carreira, este é o seu ponto de partida.
 
-> 💡 **Dica:** Lembre-se de sempre construir uma sólida base teórica aliada a uma prática constante — ambas são fundamentais e complementares. Teoria sem prática não resolve problemas, e prática sem teoria é apenas apertar botões. Sempre busque conciliar as duas formas de estudo.
+> 💡 **Dica:** Lembre-se de sempre construir uma sólida base teórica aliada a uma prática constante, ambas são fundamentais e complementares. Teoria sem prática não resolve problemas, e prática sem teoria é apenas apertar botões. Sempre busque conciliar as duas formas de estudo.
 
 ---
 ## 🧭 O que você encontrará aqui
