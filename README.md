@@ -72,6 +72,9 @@ A base de tudo. Antes de escrever uma linha de código, você precisa entender o
 
 📄 [`Introdução aos fundamentos da engenharia de dados.md`](https://github.com/IgorTiburcio81/RoadMap_DataEngineer/blob/main/Introdução%20aos%20fundamentos%20da%20engenharia%20de%20dados.md)
 
+🎯 **Desafio Prático:**
+📄 [`Desafio SQL — Acidentes nas Rodovias Federais`](Desafio-Acidentes-em-rodovais-brsileiras.md)
+
 ---
 
 ### Módulo 2 — Pipelines, Processamento & Ferramentas
